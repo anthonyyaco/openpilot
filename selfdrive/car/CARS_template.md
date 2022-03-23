@@ -1,5 +1,5 @@
 {% set footnote_tag = '[<sup>{}</sup>](#Footnotes)' -%}
-{% set video_link_tag = '<a href="{}"><img style="margin-left: 10px; opacity: 0.7;" valign="top" align="right" src="assets/icon-youtube.svg" class="inline"/></a>' -%}
+{% set video_link_tag = '<a href="{}"><img style="margin-left: 10px;" valign="top" align="right" src="assets/icon-youtube.svg" class="inline"/></a>' -%}
 {% set star_icon = '<a href="#"><img valign="top" src="assets/icon-star-{}.svg" width="22" /></a>' -%}
 
 # Supported Cars
